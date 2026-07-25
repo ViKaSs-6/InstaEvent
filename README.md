@@ -1,14 +1,14 @@
-# Insta Events 🚀
+# Insta Events 
 *Airbnb for Events — Book Venues, Caterers, and Photographers seamlessly.*
 
-## 🌟 About the Project
+## About the Project
 **Insta Events** is an all-in-one hackathon project designed to eliminate the friction of planning weddings, birthday parties, and corporate events. Instead of hunting across fragmented platforms, users can browse verified local venues, top-tier caterers, and professional photographers in one place. 
 
 What makes **Insta Events** unique is its **Custom Mix-and-Match Event Builder**—if you already have a venue (like your own home), you can skip the venue entirely and book just the caterers and photographers you need, complete with a live-updating price calculator!
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Hybrid Event Builder:** Choose a pre-made package bundle or custom-build your event by toggling services (venues, caterers, photographers) on and off.
 * **Immersive Listing Details:** Deep-dive view pages for every listing featuring photo galleries, specific amenities (AC, parking, sound systems), and mock customer reviews.
@@ -21,15 +21,15 @@ What makes **Insta Events** unique is its **Custom Mix-and-Match Event Builder**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* **Frontend:** React, TypeScript, Tailwind CSS, Lucide Icons
+* **Frontend:** React, Tailwind CSS, Lucide Icons
 * **State & Routing:** React Router / Component State Management
-* **Database & Auth:** MongoDB / Firebase Integration
+* **Database & Auth:** MongoDB 
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 1. Clone the repository:
    ```bash
